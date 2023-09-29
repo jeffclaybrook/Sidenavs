@@ -1,0 +1,363 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="aplos-chart aplos-chart-svg style-scope yta-line-chart-base" aria-hidden="true" width="1230" height="240">
+    <defs class="style-scope yta-line-chart-base">
+        <pattern id="anomaly-annotation-ICON_INACTIVE_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:var(--ytcp-icon-inactive); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:var(--ytcp-icon-inactive); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-ICON_DISABLED_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:var(--ytcp-icon-disabled); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:var(--ytcp-icon-disabled); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-TEXT_PRIMARY_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:var(--ytcp-text-primary); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:var(--ytcp-text-primary); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-TEXT_SECONDARY_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:var(--ytcp-text-secondary); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:var(--ytcp-text-secondary); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-GENERAL_BACKGROUND_A_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:var(--ytcp-general-background-a); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:var(--ytcp-general-background-a); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-GENERAL_BACKGROUND_C_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:var(--ytcp-general-background-c); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:var(--ytcp-general-background-c); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-THEMED_RED_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:var(--ytcp-themed-red); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:var(--ytcp-themed-red); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-BRAND_BACKGROUND_SOLID_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:var(--ytcp-brand-background-solid); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:var(--ytcp-brand-background-solid); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-TEN_PERCENT_LAYER_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:var(--ytcp-ten-percent-layer); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:var(--ytcp-ten-percent-layer); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-OVERVIEW_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(65, 180, 217, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(65, 180, 217, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-REACH_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(142, 140, 255, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(142, 140, 255, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-ENGAGEMENT_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(235, 93, 166, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(235, 93, 166, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-AUDIENCE_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(188, 105, 243, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(188, 105, 243, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-REVENUE_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(57, 207, 194, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(57, 207, 194, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-YELLOW_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(242, 196, 40, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(242, 196, 40, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-APRICOT_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(236, 161, 27, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(236, 161, 27, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-BUBBLEGUM_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(243, 126, 192, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(243, 126, 192, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-VALENTINE_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(225, 90, 120, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(225, 90, 120, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-PARROT_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(131, 193, 53, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(131, 193, 53, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-PINE_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(42, 161, 112, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(42, 161, 112, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-ROYAL_BLUE_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(130, 153, 255, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(130, 153, 255, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-NO_MONETIZATION_RED_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(255, 78, 69, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(255, 78, 69, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-REVSHARE_YELLOW_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(129, 80, 0, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(129, 80, 0, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-TRANSPARENT_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(0, 0, 0, 0); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(0, 0, 0, 0); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-SEVERITY_0_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(115, 115, 115, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(115, 115, 115, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-SEVERITY_1_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(39, 100, 25, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(39, 100, 25, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-SEVERITY_2_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(77, 146, 33, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(77, 146, 33, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-SEVERITY_3_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(127, 188, 65, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(127, 188, 65, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-SEVERITY_4_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(184, 225, 134, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(184, 225, 134, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-SEVERITY_5_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(230, 245, 208, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(230, 245, 208, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-SEVERITY_6_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(253, 224, 239, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(253, 224, 239, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-SEVERITY_7_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(241, 182, 218, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(241, 182, 218, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-SEVERITY_8_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(222, 119, 174, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(222, 119, 174, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-SEVERITY_9_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(197, 27, 125, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(197, 27, 125, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-SEVERITY_10_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(142, 1, 82, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(142, 1, 82, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-ICON_INACTIVE_RGBA_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(144, 144, 144, 1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(144, 144, 144, 1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+        <pattern id="anomaly-annotation-TEN_PERCENT_LAYER_RGBA_7" width="6" height="6" patternTransform="rotate(-45 0 0)" patternUnits="userSpaceOnUse" class="style-scope yta-line-chart-base">
+            <rect width="6" height="6" style="fill:rgba(255, 255, 255, 0.1); opacity:0.1;" class="style-scope yta-line-chart-base"></rect>
+            <line x1="0" y1="0" x2="0" y2="6" style="stroke:rgba(255, 255, 255, 0.1); stroke-width:1;" class="style-scope yta-line-chart-base"></line>
+        </pattern>
+    </defs>
+    <g class="aplos-draw-area style-scope yta-line-chart-base" transform="translate(53,16)">
+        <g class="x axis style-scope yta-line-chart-base" transform="translate(0, 190)" opacity="1"><text class="axis-title style-scope yta-line-chart-base" opacity="0"></text>
+            <g class="tick first-tick style-scope yta-line-chart-base" opacity="1" transform="translate(0,0)"><text class="label style-scope yta-line-chart-base" text-anchor="start" y="12" x="0" dy=".71em">
+                    <tspan x="0" class="style-scope yta-line-chart-base">Nov 10, 2022</tspan>
+                </text>
+                <line class="tick-mark strong-tick-mark style-scope yta-line-chart-base" x1="0" x2="0" y1="0" y2="6"></line>
+                <line class="gridline style-scope yta-line-chart-base" x2="0" y1="0" y2="-190" display="none"></line>
+            </g>
+            <g class="tick style-scope yta-line-chart-base" opacity="1" transform="translate(195,0)"><text class="label style-scope yta-line-chart-base" text-anchor="middle" y="12" x="0" dy=".71em">
+                    <tspan x="0" class="style-scope yta-line-chart-base">Nov 25, 2022</tspan>
+                </text>
+                <line class="tick-mark strong-tick-mark style-scope yta-line-chart-base" x1="0" x2="0" y1="0" y2="6"></line>
+                <line class="gridline style-scope yta-line-chart-base" x2="0" y1="0" y2="-190" display="none"></line>
+            </g>
+            <g class="tick style-scope yta-line-chart-base" opacity="1" transform="translate(390,0)"><text class="label style-scope yta-line-chart-base" text-anchor="middle" y="12" x="0" dy=".71em">
+                    <tspan x="0" class="style-scope yta-line-chart-base">Dec 10, 2022</tspan>
+                </text>
+                <line class="tick-mark strong-tick-mark style-scope yta-line-chart-base" x1="0" x2="0" y1="0" y2="6"></line>
+                <line class="gridline style-scope yta-line-chart-base" x2="0" y1="0" y2="-190" display="none"></line>
+            </g>
+            <g class="tick style-scope yta-line-chart-base" opacity="1" transform="translate(585,0)"><text class="label style-scope yta-line-chart-base" text-anchor="middle" y="12" x="0" dy=".71em">
+                    <tspan x="0" class="style-scope yta-line-chart-base">Dec 25, 2022</tspan>
+                </text>
+                <line class="tick-mark strong-tick-mark style-scope yta-line-chart-base" x1="0" x2="0" y1="0" y2="6"></line>
+                <line class="gridline style-scope yta-line-chart-base" x2="0" y1="0" y2="-190" display="none"></line>
+            </g>
+            <g class="tick style-scope yta-line-chart-base" opacity="1" transform="translate(767,0)"><text class="label style-scope yta-line-chart-base" text-anchor="middle" y="12" x="0" dy=".71em">
+                    <tspan x="0" class="style-scope yta-line-chart-base">Jan 8, 2023</tspan>
+                </text>
+                <line class="tick-mark strong-tick-mark style-scope yta-line-chart-base" x1="0" x2="0" y1="0" y2="6"></line>
+                <line class="gridline style-scope yta-line-chart-base" x2="0" y1="0" y2="-190" display="none"></line>
+            </g>
+            <g class="tick style-scope yta-line-chart-base" opacity="1" transform="translate(962,0)"><text class="label style-scope yta-line-chart-base" text-anchor="middle" y="12" x="0" dy=".71em">
+                    <tspan x="0" class="style-scope yta-line-chart-base">Jan 23, 2023</tspan>
+                </text>
+                <line class="tick-mark strong-tick-mark style-scope yta-line-chart-base" x1="0" x2="0" y1="0" y2="6"></line>
+                <line class="gridline style-scope yta-line-chart-base" x2="0" y1="0" y2="-190" display="none"></line>
+            </g>
+            <g class="tick last-tick style-scope yta-line-chart-base" opacity="1" transform="translate(1157,0)"><text class="label style-scope yta-line-chart-base" text-anchor="end" y="12" x="0" dy=".71em">
+                    <tspan x="0" class="style-scope yta-line-chart-base">Feb 7, 2023</tspan>
+                </text>
+                <line class="tick-mark strong-tick-mark style-scope yta-line-chart-base" x1="0" x2="0" y1="0" y2="6"></line>
+                <line class="gridline style-scope yta-line-chart-base" x2="0" y1="0" y2="-190" display="none"></line>
+            </g>
+        </g>
+        <g class="x2 axis style-scope yta-line-chart-base" opacity="0"></g>
+        <g class="y axis style-scope yta-line-chart-base" transform="translate(0, 0)" opacity="1"><text class="axis-title style-scope yta-line-chart-base" opacity="0"></text>
+            <g class="tick first-tick style-scope yta-line-chart-base" opacity="1" transform="translate(0,0)"><text class="label style-scope yta-line-chart-base" text-anchor="end" y="0" x="-16" dy=".32em">
+                    <tspan x="-16" class="style-scope yta-line-chart-base">180</tspan>
+                </text>
+                <line class="tick-mark style-scope yta-line-chart-base" x1="0" x2="0" y1="0" y2="0"></line>
+                <line class="gridline style-scope yta-line-chart-base" x2="1157" y1="0" y2="0"></line>
+            </g>
+            <g class="tick style-scope yta-line-chart-base" opacity="1" transform="translate(0,63.33333333333334)"><text class="label style-scope yta-line-chart-base" text-anchor="end" y="0" x="-16" dy=".32em">
+                    <tspan x="-16" class="style-scope yta-line-chart-base">120</tspan>
+                </text>
+                <line class="tick-mark style-scope yta-line-chart-base" x1="0" x2="0" y1="0" y2="0"></line>
+                <line class="gridline style-scope yta-line-chart-base" x2="1157" y1="0" y2="0"></line>
+            </g>
+            <g class="tick style-scope yta-line-chart-base" opacity="1" transform="translate(0,126.66666666666667)"><text class="label style-scope yta-line-chart-base" text-anchor="end" y="0" x="-16" dy=".32em">
+                    <tspan x="-16" class="style-scope yta-line-chart-base">60</tspan>
+                </text>
+                <line class="tick-mark style-scope yta-line-chart-base" x1="0" x2="0" y1="0" y2="0"></line>
+                <line class="gridline style-scope yta-line-chart-base" x2="1157" y1="0" y2="0"></line>
+            </g>
+            <g class="tick last-tick style-scope yta-line-chart-base" opacity="1" transform="translate(0,190)"><text class="label style-scope yta-line-chart-base" text-anchor="end" y="0" x="-16" dy=".32em">
+                    <tspan x="-16" class="style-scope yta-line-chart-base">0</tspan>
+                </text>
+                <line class="tick-mark style-scope yta-line-chart-base" x1="0" x2="0" y1="0" y2="0"></line>
+                <line class="gridline axis-zero-tick style-scope yta-line-chart-base" x2="1157" y1="0" y2="0"></line>
+            </g>
+        </g>
+        <g class="y2 axis style-scope yta-line-chart-base" opacity="0" transform="translate(1157,0)"></g>
+        <g class="baseline-group style-scope yta-line-chart-base">
+            <line class="baseline x-axis-baseline style-scope yta-line-chart-base" fill="none" stroke="#9e9e9e" shape-rendering="crispEdges" opacity="1" display="none"></line>
+            <line class="baseline y-axis-baseline style-scope yta-line-chart-base" fill="none" stroke="#9e9e9e" shape-rendering="crispEdges" opacity="1" x2="1157" y1="190" y2="190"></line>
+        </g>
+        <g class="axis-line-group style-scope yta-line-chart-base">
+            <line class="axis-line x-axis-line style-scope yta-line-chart-base" fill="none" stroke="#9e9e9e" shape-rendering="crispEdges" opacity="1" x2="1157" y1="190" y2="190"></line>
+            <line class="axis-line y-axis-line style-scope yta-line-chart-base" fill="none" stroke="#9e9e9e" shape-rendering="crispEdges" opacity="1" display="none" x1="0" x2="0" y2="190"></line>
+        </g>
+        <rect class="mouseCapturePane style-scope yta-line-chart-base" width="1157" height="190" style="opacity: 0;"></rect>
+        <g class="seriesGroups style-scope yta-line-chart-base">
+            <g series-id="VIEWS_e2h5B4aAfqo_0" class="style-scope yta-line-chart-base">
+                <defs class="style-scope yta-line-chart-base">
+                    <clipPath id="lineclip80" class="style-scope yta-line-chart-base">
+                        <rect x="0" y="-16" width="1157" height="240" class="style-scope yta-line-chart-base"></rect>
+                    </clipPath>
+                </defs>
+                <g class="area-segments style-scope yta-line-chart-base"></g>
+                <g class="line-segments style-scope yta-line-chart-base">
+                    <path class="line-series style-scope yta-line-chart-base" fill="none" stroke="rgba(131, 193, 53, 1)" stroke-dasharray="" d="M0,190L13,190L26,190L39,190L52,190L65,190L78,190L91,190L104,190L117,190L130,190L143,190L156,190L169,190L182,190L195,190L208,190L221,190L234,190L247,190L260,190L273,190L286,190L299,190L312,190L325,190L338,190L351,190L364,190L377,190L390,190L403,190L416,190L429,190L442,190L455,190L468,190L481,190L494,190L507,190L520,190L533,190L546,190L559,190L572,190L585,190L598,190L611,190L624,190L637,190L650,190L663,190L676,190L689,190L702,181L715,178L728,185L741,190L754,190L767,188L780,190L793,190L806,190L819,190L832,185L845,189L858,187L871,187L884,186L897,185L910,185L923,185L936,184L949,184L962,186L975,185L988,184L1001,187L1014,187L1027,182L1040,184L1053,179L1066,181L1079,183L1092,187L1105,185L1118,179L1131,181L1144,173L1157,181" clip-path="url(#lineclip80)" stroke-width="2"></path>
+                    <path class="event-target style-scope yta-line-chart-base" fill="none" stroke="transparent" opacity="0" d="M0,190L13,190L26,190L39,190L52,190L65,190L78,190L91,190L104,190L117,190L130,190L143,190L156,190L169,190L182,190L195,190L208,190L221,190L234,190L247,190L260,190L273,190L286,190L299,190L312,190L325,190L338,190L351,190L364,190L377,190L390,190L403,190L416,190L429,190L442,190L455,190L468,190L481,190L494,190L507,190L520,190L533,190L546,190L559,190L572,190L585,190L598,190L611,190L624,190L637,190L650,190L663,190L676,190L689,190L702,181L715,178L728,185L741,190L754,190L767,188L780,190L793,190L806,190L819,190L832,185L845,189L858,187L871,187L884,186L897,185L910,185L923,185L936,184L949,184L962,186L975,185L988,184L1001,187L1014,187L1027,182L1040,184L1053,179L1066,181L1079,183L1092,187L1105,185L1118,179L1131,181L1144,173L1157,181" clip-path="url(#lineclip80)" stroke-width="10"></path>
+                </g>
+                <g class="isolate-data style-scope yta-line-chart-base"></g>
+                <g class="points style-scope yta-line-chart-base"></g>
+                <g class="error-area-segments style-scope yta-line-chart-base"></g>
+            </g>
+            <g series-id="VIEWS_LCPWvDY7QpM_0" class="style-scope yta-line-chart-base">
+                <defs class="style-scope yta-line-chart-base">
+                    <clipPath id="lineclip79" class="style-scope yta-line-chart-base">
+                        <rect x="0" y="-16" width="1157" height="240" class="style-scope yta-line-chart-base"></rect>
+                    </clipPath>
+                </defs>
+                <g class="area-segments style-scope yta-line-chart-base"></g>
+                <g class="line-segments style-scope yta-line-chart-base">
+                    <path class="line-series style-scope yta-line-chart-base" fill="none" stroke="rgba(130, 153, 255, 1)" stroke-dasharray="" d="M0,190L13,190L26,190L39,190L52,190L65,190L78,190L91,190L104,174L117,189L130,190L143,188L156,156L169,115L182,116L195,140L208,164L221,117L234,96L247,59L260,73L273,101L286,102L299,140L312,157L325,169L338,176L351,169L364,187L377,172L390,127L403,158L416,138L429,137L442,138L455,137L468,105L481,130L494,162L507,133L520,111L533,115L546,131L559,140L572,168L585,162L598,151L611,134L624,134L637,152L650,146L663,160L676,143L689,94L702,131L715,134L728,129L741,112L754,148L767,127L780,131L793,130L806,108L819,121L832,111L845,112L858,99L871,119L884,139L897,134L910,121L923,118L936,131L949,111L962,127L975,82L988,94L1001,110L1014,93L1027,75L1040,73L1053,63L1066,61L1079,87L1092,63L1105,59L1118,112L1131,40L1144,13L1157,29" clip-path="url(#lineclip79)" stroke-width="2"></path>
+                    <path class="event-target style-scope yta-line-chart-base" fill="none" stroke="transparent" opacity="0" d="M0,190L13,190L26,190L39,190L52,190L65,190L78,190L91,190L104,174L117,189L130,190L143,188L156,156L169,115L182,116L195,140L208,164L221,117L234,96L247,59L260,73L273,101L286,102L299,140L312,157L325,169L338,176L351,169L364,187L377,172L390,127L403,158L416,138L429,137L442,138L455,137L468,105L481,130L494,162L507,133L520,111L533,115L546,131L559,140L572,168L585,162L598,151L611,134L624,134L637,152L650,146L663,160L676,143L689,94L702,131L715,134L728,129L741,112L754,148L767,127L780,131L793,130L806,108L819,121L832,111L845,112L858,99L871,119L884,139L897,134L910,121L923,118L936,131L949,111L962,127L975,82L988,94L1001,110L1014,93L1027,75L1040,73L1053,63L1066,61L1079,87L1092,63L1105,59L1118,112L1131,40L1144,13L1157,29" clip-path="url(#lineclip79)" stroke-width="10"></path>
+                </g>
+                <g class="isolate-data style-scope yta-line-chart-base"></g>
+                <g class="points style-scope yta-line-chart-base"></g>
+                <g class="error-area-segments style-scope yta-line-chart-base"></g>
+            </g>
+            <g series-id="VIEWS_KhqltKZCQBM_0" class="style-scope yta-line-chart-base">
+                <defs class="style-scope yta-line-chart-base">
+                    <clipPath id="lineclip78" class="style-scope yta-line-chart-base">
+                        <rect x="0" y="-16" width="1157" height="240" class="style-scope yta-line-chart-base"></rect>
+                    </clipPath>
+                </defs>
+                <g class="area-segments style-scope yta-line-chart-base"></g>
+                <g class="line-segments style-scope yta-line-chart-base">
+                    <path class="line-series style-scope yta-line-chart-base" fill="none" stroke="rgba(188, 105, 243, 1)" stroke-dasharray="" d="M0,190L13,190L26,190L39,190L52,190L65,190L78,190L91,190L104,190L117,190L130,190L143,190L156,190L169,190L182,190L195,190L208,190L221,190L234,190L247,190L260,190L273,190L286,190L299,190L312,190L325,190L338,190L351,190L364,190L377,190L390,190L403,190L416,190L429,190L442,190L455,190L468,190L481,190L494,190L507,190L520,190L533,190L546,190L559,190L572,190L585,190L598,190L611,190L624,190L637,190L650,190L663,190L676,190L689,190L702,190L715,190L728,190L741,190L754,190L767,187L780,188L793,185L806,187L819,190L832,184L845,186L858,183L871,188L884,182L897,187L910,184L923,187L936,188L949,187L962,186L975,187L988,189L1001,187L1014,186L1027,187L1040,189L1053,182L1066,185L1079,186L1092,179L1105,184L1118,183L1131,186L1144,185L1157,187" clip-path="url(#lineclip78)" stroke-width="2"></path>
+                    <path class="event-target style-scope yta-line-chart-base" fill="none" stroke="transparent" opacity="0" d="M0,190L13,190L26,190L39,190L52,190L65,190L78,190L91,190L104,190L117,190L130,190L143,190L156,190L169,190L182,190L195,190L208,190L221,190L234,190L247,190L260,190L273,190L286,190L299,190L312,190L325,190L338,190L351,190L364,190L377,190L390,190L403,190L416,190L429,190L442,190L455,190L468,190L481,190L494,190L507,190L520,190L533,190L546,190L559,190L572,190L585,190L598,190L611,190L624,190L637,190L650,190L663,190L676,190L689,190L702,190L715,190L728,190L741,190L754,190L767,187L780,188L793,185L806,187L819,190L832,184L845,186L858,183L871,188L884,182L897,187L910,184L923,187L936,188L949,187L962,186L975,187L988,189L1001,187L1014,186L1027,187L1040,189L1053,182L1066,185L1079,186L1092,179L1105,184L1118,183L1131,186L1144,185L1157,187" clip-path="url(#lineclip78)" stroke-width="10"></path>
+                </g>
+                <g class="isolate-data style-scope yta-line-chart-base"></g>
+                <g class="points style-scope yta-line-chart-base"></g>
+                <g class="error-area-segments style-scope yta-line-chart-base"></g>
+            </g>
+            <g series-id="VIEWS_79278_9XLbQ_0" class="style-scope yta-line-chart-base">
+                <defs class="style-scope yta-line-chart-base">
+                    <clipPath id="lineclip77" class="style-scope yta-line-chart-base">
+                        <rect x="0" y="-16" width="1157" height="240" class="style-scope yta-line-chart-base"></rect>
+                    </clipPath>
+                </defs>
+                <g class="area-segments style-scope yta-line-chart-base"></g>
+                <g class="line-segments style-scope yta-line-chart-base">
+                    <path class="line-series style-scope yta-line-chart-base" fill="none" stroke="rgba(236, 161, 27, 1)" stroke-dasharray="" d="M0,190L13,190L26,190L39,190L52,190L65,190L78,190L91,190L104,190L117,190L130,190L143,190L156,190L169,190L182,190L195,190L208,190L221,190L234,190L247,186L260,187L273,186L286,183L299,181L312,188L325,187L338,185L351,185L364,189L377,181L390,181L403,188L416,185L429,186L442,186L455,189L468,188L481,189L494,190L507,190L520,189L533,189L546,190L559,190L572,190L585,189L598,188L611,190L624,190L637,190L650,189L663,189L676,189L689,189L702,189L715,190L728,190L741,190L754,190L767,189L780,190L793,189L806,188L819,189L832,186L845,189L858,187L871,189L884,189L897,190L910,188L923,190L936,190L949,188L962,188L975,189L988,190L1001,189L1014,189L1027,187L1040,189L1053,188L1066,190L1079,187L1092,188L1105,188L1118,184L1131,188L1144,188L1157,188" clip-path="url(#lineclip77)" stroke-width="2"></path>
+                    <path class="event-target style-scope yta-line-chart-base" fill="none" stroke="transparent" opacity="0" d="M0,190L13,190L26,190L39,190L52,190L65,190L78,190L91,190L104,190L117,190L130,190L143,190L156,190L169,190L182,190L195,190L208,190L221,190L234,190L247,186L260,187L273,186L286,183L299,181L312,188L325,187L338,185L351,185L364,189L377,181L390,181L403,188L416,185L429,186L442,186L455,189L468,188L481,189L494,190L507,190L520,189L533,189L546,190L559,190L572,190L585,189L598,188L611,190L624,190L637,190L650,189L663,189L676,189L689,189L702,189L715,190L728,190L741,190L754,190L767,189L780,190L793,189L806,188L819,189L832,186L845,189L858,187L871,189L884,189L897,190L910,188L923,190L936,190L949,188L962,188L975,189L988,190L1001,189L1014,189L1027,187L1040,189L1053,188L1066,190L1079,187L1092,188L1105,188L1118,184L1131,188L1144,188L1157,188" clip-path="url(#lineclip77)" stroke-width="10"></path>
+                </g>
+                <g class="isolate-data style-scope yta-line-chart-base"></g>
+                <g class="points style-scope yta-line-chart-base"></g>
+                <g class="error-area-segments style-scope yta-line-chart-base"></g>
+            </g>
+            <g series-id="VIEWS_6OvI4QyuYY0_0" class="style-scope yta-line-chart-base">
+                <defs class="style-scope yta-line-chart-base">
+                    <clipPath id="lineclip76" class="style-scope yta-line-chart-base">
+                        <rect x="0" y="-16" width="1157" height="240" class="style-scope yta-line-chart-base"></rect>
+                    </clipPath>
+                </defs>
+                <g class="area-segments style-scope yta-line-chart-base"></g>
+                <g class="line-segments style-scope yta-line-chart-base">
+                    <path class="line-series style-scope yta-line-chart-base" fill="none" stroke="rgba(225, 90, 120, 1)" stroke-dasharray="" d="M0,190L13,190L26,190L39,190L52,190L65,190L78,190L91,190L104,190L117,190L130,190L143,190L156,190L169,190L182,190L195,190L208,190L221,190L234,190L247,190L260,190L273,190L286,190L299,190L312,190L325,190L338,190L351,190L364,190L377,190L390,190L403,190L416,190L429,190L442,190L455,190L468,190L481,190L494,190L507,190L520,190L533,190L546,190L559,190L572,190L585,190L598,190L611,190L624,190L637,190L650,190L663,190L676,190L689,190L702,190L715,190L728,190L741,190L754,190L767,190L780,186L793,189L806,188L819,187L832,175L845,179L858,178L871,177L884,183L897,181L910,187L923,190L936,189L949,186L962,187L975,187L988,189L1001,186L1014,183L1027,189L1040,189L1053,187L1066,186L1079,186L1092,190L1105,188L1118,188L1131,189L1144,187L1157,189" clip-path="url(#lineclip76)" stroke-width="2"></path>
+                    <path class="event-target style-scope yta-line-chart-base" fill="none" stroke="transparent" opacity="0" d="M0,190L13,190L26,190L39,190L52,190L65,190L78,190L91,190L104,190L117,190L130,190L143,190L156,190L169,190L182,190L195,190L208,190L221,190L234,190L247,190L260,190L273,190L286,190L299,190L312,190L325,190L338,190L351,190L364,190L377,190L390,190L403,190L416,190L429,190L442,190L455,190L468,190L481,190L494,190L507,190L520,190L533,190L546,190L559,190L572,190L585,190L598,190L611,190L624,190L637,190L650,190L663,190L676,190L689,190L702,190L715,190L728,190L741,190L754,190L767,190L780,186L793,189L806,188L819,187L832,175L845,179L858,178L871,177L884,183L897,181L910,187L923,190L936,189L949,186L962,187L975,187L988,189L1001,186L1014,183L1027,189L1040,189L1053,187L1066,186L1079,186L1092,190L1105,188L1118,188L1131,189L1144,187L1157,189" clip-path="url(#lineclip76)" stroke-width="10"></path>
+                </g>
+                <g class="isolate-data style-scope yta-line-chart-base"></g>
+                <g class="points style-scope yta-line-chart-base"></g>
+                <g class="error-area-segments style-scope yta-line-chart-base"></g>
+            </g>
+        </g>
+        <g class="aplos-line-annotation-layer style-scope yta-line-chart-base" opacity="1"></g>
+        <g class="dot-follow-layer style-scope yta-line-chart-base" style="display: none;">
+            <g class="dot-follow-group style-scope yta-line-chart-base">
+                <line class="dot-follow-domain-line style-scope yta-line-chart-base" x1="676" x2="676" y1="0" y2="190"></line>
+                <line class="dot-follow-measure-line style-scope yta-line-chart-base" display="none" x1="0" x2="1157" y1="190" y2="190"></line>
+                <g class="dot-follow-point-group style-scope yta-line-chart-base">
+                    <g class="aplos-circle-shape-group dot-follow style-scope yta-line-chart-base">
+                        <circle class="aplos-circle-shape style-scope yta-line-chart-base" cx="676" cy="190" r="5" fill="rgba(225, 90, 120, 1)" stroke-width="0"></circle><text dx="676" fill="white" text-anchor="middle" opacity="0" dy="190" dominant-baseline="middle" class="style-scope yta-line-chart-base" style="fill: white; font-size: 6.25px;"></text>
+                    </g>
+                </g>
+            </g>
+            <g class="dot-follow-group style-scope yta-line-chart-base">
+                <line class="dot-follow-domain-line style-scope yta-line-chart-base" x1="676" x2="676" y1="0" y2="190"></line>
+                <line class="dot-follow-measure-line style-scope yta-line-chart-base" display="none" x1="0" x2="1157" y1="188.94444444444446" y2="188.94444444444446"></line>
+                <g class="dot-follow-point-group style-scope yta-line-chart-base">
+                    <g class="aplos-circle-shape-group dot-follow style-scope yta-line-chart-base">
+                        <circle class="aplos-circle-shape style-scope yta-line-chart-base" cx="676" cy="188.94444444444446" r="5" fill="rgba(236, 161, 27, 1)" stroke-width="0"></circle><text dx="676" fill="white" text-anchor="middle" opacity="0" dy="188.94444444444446" dominant-baseline="middle" class="style-scope yta-line-chart-base" style="fill: white; font-size: 6.25px;"></text>
+                    </g>
+                </g>
+            </g>
+            <g class="dot-follow-group style-scope yta-line-chart-base">
+                <line class="dot-follow-domain-line style-scope yta-line-chart-base" x1="676" x2="676" y1="0" y2="190"></line>
+                <line class="dot-follow-measure-line style-scope yta-line-chart-base" display="none" x1="0" x2="1157" y1="190" y2="190"></line>
+                <g class="dot-follow-point-group style-scope yta-line-chart-base">
+                    <g class="aplos-circle-shape-group dot-follow style-scope yta-line-chart-base">
+                        <circle class="aplos-circle-shape style-scope yta-line-chart-base" cx="676" cy="190" r="5" fill="rgba(188, 105, 243, 1)" stroke-width="0"></circle><text dx="676" fill="white" text-anchor="middle" opacity="0" dy="190" dominant-baseline="middle" class="style-scope yta-line-chart-base" style="fill: white; font-size: 6.25px;"></text>
+                    </g>
+                </g>
+            </g>
+            <g class="dot-follow-group style-scope yta-line-chart-base">
+                <line class="dot-follow-domain-line style-scope yta-line-chart-base" x1="676" x2="676" y1="0" y2="190"></line>
+                <line class="dot-follow-measure-line style-scope yta-line-chart-base" display="none" x1="0" x2="1157" y1="142.5" y2="142.5"></line>
+                <g class="dot-follow-point-group style-scope yta-line-chart-base">
+                    <g class="aplos-circle-shape-group dot-follow style-scope yta-line-chart-base">
+                        <circle class="aplos-circle-shape style-scope yta-line-chart-base" cx="676" cy="142.5" r="5" fill="rgba(130, 153, 255, 1)" stroke-width="0"></circle><text dx="676" fill="white" text-anchor="middle" opacity="0" dy="142.5" dominant-baseline="middle" class="style-scope yta-line-chart-base" style="fill: white; font-size: 6.25px;"></text>
+                    </g>
+                </g>
+            </g>
+            <g class="dot-follow-group style-scope yta-line-chart-base">
+                <line class="dot-follow-domain-line style-scope yta-line-chart-base" x1="676" x2="676" y1="0" y2="190"></line>
+                <line class="dot-follow-measure-line style-scope yta-line-chart-base" display="none" x1="0" x2="1157" y1="190" y2="190"></line>
+                <g class="dot-follow-point-group style-scope yta-line-chart-base">
+                    <g class="aplos-circle-shape-group dot-follow style-scope yta-line-chart-base">
+                        <circle class="aplos-circle-shape style-scope yta-line-chart-base" cx="676" cy="190" r="5" fill="rgba(131, 193, 53, 1)" stroke-width="0"></circle><text dx="676" fill="white" text-anchor="middle" opacity="0" dy="190" dominant-baseline="middle" class="style-scope yta-line-chart-base" style="fill: white; font-size: 6.25px;"></text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <clipPath id="clipRegion6" class="style-scope yta-line-chart-base">
+        <rect x="1" y="-1" width="1158" height="192" class="style-scope yta-line-chart-base"></rect>
+    </clipPath>
+</svg>
